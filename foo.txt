@@ -1,5 +1,3 @@
 Hello, third commit!
 
 Hello back, feature-A branch, 4th commit!
-
-Lovely line here, would be a shame if someone deleted...
