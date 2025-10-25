@@ -2,4 +2,8 @@ Hello, third commit!
 
 Hello back, feature-A branch, 4th commit!
 
-Do you remember how to restack?
+Do you remember how to restack? This would be really annoying if you didn't.
+For the 8th commit, commit a custom message below!
+|
+|
+V
