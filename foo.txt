@@ -1,1 +1,1 @@
-Hello, first commit for feature B.
+Hello, second commit for feature B.
